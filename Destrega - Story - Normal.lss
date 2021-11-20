@@ -12,7 +12,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>43</AttemptCount>
+  <AttemptCount>57</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="11/14/2021 08:39:32" isStartedSynced="True" ended="11/14/2021 08:41:05" isEndedSynced="True" />
     <Attempt id="2" started="11/14/2021 08:42:41" isStartedSynced="True" ended="11/14/2021 08:50:47" isEndedSynced="True" />
@@ -87,13 +87,31 @@
     <Attempt id="65" started="11/20/2021 07:43:37" isStartedSynced="True" ended="11/20/2021 07:50:38" isEndedSynced="True" />
     <Attempt id="66" started="11/20/2021 07:50:57" isStartedSynced="True" ended="11/20/2021 07:51:35" isEndedSynced="True" />
     <Attempt id="67" started="11/20/2021 07:51:44" isStartedSynced="True" ended="11/20/2021 07:56:36" isEndedSynced="True" />
+    <Attempt id="68" started="11/20/2021 11:57:50" isStartedSynced="True" ended="11/20/2021 11:57:51" isEndedSynced="True" />
+    <Attempt id="69" started="11/20/2021 11:58:20" isStartedSynced="True" ended="11/20/2021 12:00:02" isEndedSynced="True" />
+    <Attempt id="70" started="11/20/2021 12:00:10" isStartedSynced="True" ended="11/20/2021 12:01:49" isEndedSynced="True" />
+    <Attempt id="71" started="11/20/2021 12:01:57" isStartedSynced="True" ended="11/20/2021 12:02:31" isEndedSynced="True" />
+    <Attempt id="72" started="11/20/2021 12:02:39" isStartedSynced="True" ended="11/20/2021 12:03:07" isEndedSynced="True" />
+    <Attempt id="73" started="11/20/2021 12:03:17" isStartedSynced="True" ended="11/20/2021 12:05:02" isEndedSynced="True" />
+    <Attempt id="74" started="11/20/2021 12:05:48" isStartedSynced="True" ended="11/20/2021 12:08:26" isEndedSynced="True" />
+    <Attempt id="75" started="11/20/2021 12:08:35" isStartedSynced="True" ended="11/20/2021 12:10:32" isEndedSynced="True" />
+    <Attempt id="76" started="11/20/2021 12:10:40" isStartedSynced="True" ended="11/20/2021 12:11:12" isEndedSynced="True" />
+    <Attempt id="77" started="11/20/2021 12:11:21" isStartedSynced="True" ended="11/20/2021 12:11:50" isEndedSynced="True" />
+    <Attempt id="78" started="11/20/2021 12:11:57" isStartedSynced="True" ended="11/20/2021 12:12:33" isEndedSynced="True" />
+    <Attempt id="79" started="11/20/2021 12:12:40" isStartedSynced="True" ended="11/20/2021 12:13:15" isEndedSynced="True" />
+    <Attempt id="80" started="11/20/2021 12:13:33" isStartedSynced="True" ended="11/20/2021 12:14:00" isEndedSynced="True" />
+    <Attempt id="81" started="11/20/2021 12:14:09" isStartedSynced="True" ended="11/20/2021 12:43:00" isEndedSynced="True">
+      <RealTime>00:28:50.9130000</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
       <Name>Battle 1: Grad vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:31.8620000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:31.2350000</RealTime>
@@ -153,13 +171,33 @@
         <Time id="67">
           <RealTime>00:00:40.0100000</RealTime>
         </Time>
+        <Time id="69">
+          <RealTime>00:00:43.0600000</RealTime>
+        </Time>
+        <Time id="70">
+          <RealTime>00:00:41.0250000</RealTime>
+        </Time>
+        <Time id="73">
+          <RealTime>00:00:36.2700000</RealTime>
+        </Time>
+        <Time id="74">
+          <RealTime>00:00:37.8960000</RealTime>
+        </Time>
+        <Time id="75">
+          <RealTime>00:00:37.3460000</RealTime>
+        </Time>
+        <Time id="81">
+          <RealTime>00:00:31.8620000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 2: Teem vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:44.1780000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:01:01.2470000</RealTime>
@@ -213,13 +251,21 @@
         <Time id="67">
           <RealTime>00:01:06.7800000</RealTime>
         </Time>
+        <Time id="74">
+          <RealTime>00:01:13.2290000</RealTime>
+        </Time>
+        <Time id="81">
+          <RealTime>00:01:12.3160000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 3: Grad vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:34.5680000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:43.8330000</RealTime>
@@ -264,13 +310,18 @@
         <Time id="67">
           <RealTime>00:00:46.1690000</RealTime>
         </Time>
+        <Time id="81">
+          <RealTime>00:00:50.3900000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 4: Serea vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:19.0630000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:35.3430000</RealTime>
@@ -315,13 +366,18 @@
         <Time id="67">
           <RealTime>00:00:42.7170000</RealTime>
         </Time>
+        <Time id="81">
+          <RealTime>00:00:44.4950000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 5: Anzeal vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:31.0310000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:01:01.6230000</RealTime>
@@ -354,16 +410,21 @@
         <Time id="65">
           <RealTime>00:01:06.8510000</RealTime>
         </Time>
+        <Time id="81">
+          <RealTime>00:01:11.9680000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 6: Grad vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:48.4620000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:18.0810000</RealTime>
+        <RealTime>00:01:17.4310000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="26">
@@ -390,13 +451,18 @@
         <Time id="65">
           <RealTime>00:01:41.0640000</RealTime>
         </Time>
+        <Time id="81">
+          <RealTime>00:01:17.4310000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 7: Serea vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:19.7200000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:16.2630000</RealTime>
@@ -417,13 +483,18 @@
         <Time id="58">
           <RealTime>00:00:16.2630000</RealTime>
         </Time>
+        <Time id="81">
+          <RealTime>00:00:31.2580000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 8: Teem vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:20.8320000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:53.4300000</RealTime>
@@ -444,16 +515,21 @@
         <Time id="58">
           <RealTime>00:01:20.8120000</RealTime>
         </Time>
+        <Time id="81">
+          <RealTime>00:01:01.1120000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 9: Grad vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:55.5150000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:37.2630000</RealTime>
+        <RealTime>00:00:34.6830000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="30">
@@ -468,13 +544,18 @@
         <Time id="58">
           <RealTime>00:00:59.3170000</RealTime>
         </Time>
+        <Time id="81">
+          <RealTime>00:00:34.6830000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 10: Serea vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:35.5230000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:39.3260000</RealTime>
@@ -486,16 +567,21 @@
         <Time id="58">
           <RealTime>00:00:39.3260000</RealTime>
         </Time>
+        <Time id="81">
+          <RealTime>00:00:40.0080000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 11: Teem vs Grad</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:58.3500000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:32.7400000</RealTime>
+        <RealTime>00:01:22.8270000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="55">
@@ -504,13 +590,18 @@
         <Time id="58">
           <RealTime>00:01:32.7400000</RealTime>
         </Time>
+        <Time id="81">
+          <RealTime>00:01:22.8270000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 12: Kuga vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:18.7060000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:52.9210000</RealTime>
@@ -522,16 +613,21 @@
         <Time id="58">
           <RealTime>00:00:52.9210000</RealTime>
         </Time>
+        <Time id="81">
+          <RealTime>00:01:20.3560000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 13: Serea vs Milena</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:43.3260000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:40.8260000</RealTime>
+        <RealTime>00:01:24.6200000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="55">
@@ -540,13 +636,18 @@
         <Time id="58">
           <RealTime>00:01:41.9160000</RealTime>
         </Time>
+        <Time id="81">
+          <RealTime>00:01:24.6200000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 14: Grad vs Milena</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:34.4130000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:01:19.8470000</RealTime>
@@ -558,31 +659,46 @@
         <Time id="58">
           <RealTime>00:01:26.1200000</RealTime>
         </Time>
+        <Time id="81">
+          <RealTime>00:01:51.0870000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 15: Serea vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:02.2160000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:02:27.8030000</RealTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="58" />
+        <Time id="81">
+          <RealTime>00:02:27.8030000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 16: Serea vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:36.8930000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:23.6910000</RealTime>
+        <RealTime>00:00:34.6770000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="58">
           <RealTime>00:01:23.6910000</RealTime>
+        </Time>
+        <Time id="81">
+          <RealTime>00:00:34.6770000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -590,7 +706,9 @@
       <Name>Battle 17: Teem vs Doil</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:45.4430000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:01:07.2270000</RealTime>
@@ -599,70 +717,129 @@
         <Time id="58">
           <RealTime>00:01:07.2270000</RealTime>
         </Time>
+        <Time id="81">
+          <RealTime>00:01:08.5500000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 18: Grad vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:23:24.1340000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:04:38.6910000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="81">
+          <RealTime>00:04:38.6910000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 19: Grad vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:23:48.6640000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:24.5300000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="81">
+          <RealTime>00:00:24.5300000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 20: Doil vs Relics</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:24:51.5030000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:01:02.8390000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="81">
+          <RealTime>00:01:02.8390000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 21: Teem vs Laon</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:51.4580000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:59.9550000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="81">
+          <RealTime>00:00:59.9550000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 22: Milena vs Zauber</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:27:01.2590000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:01:09.8010000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="81">
+          <RealTime>00:01:09.8010000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 23: Grad vs Zauber</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:28:11.4520000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:01:10.1930000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="81">
+          <RealTime>00:01:10.1930000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Battle 24: Grad vs Falma</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:28:50.9130000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:39.4610000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="81">
+          <RealTime>00:00:39.4610000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings />
