@@ -12,9 +12,10 @@
     <Region>
     </Region>
     <Variables />
+    <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>4</AttemptCount>
+  <AttemptCount>28</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="01/25/2025 13:41:11" isStartedSynced="True" ended="01/25/2025 13:54:24" isEndedSynced="True">
       <RealTime>00:13:13.7359709</RealTime>
@@ -26,70 +27,157 @@
     <Attempt id="4" started="01/26/2025 07:20:02" isStartedSynced="True" ended="01/26/2025 07:32:25" isEndedSynced="True">
       <RealTime>00:12:23.2191638</RealTime>
     </Attempt>
+    <Attempt id="5" started="01/26/2025 12:52:09" isStartedSynced="True" ended="01/26/2025 12:52:32" isEndedSynced="True" />
+    <Attempt id="6" started="01/26/2025 12:53:09" isStartedSynced="True" ended="01/26/2025 13:05:36" isEndedSynced="True">
+      <RealTime>00:12:26.4993450</RealTime>
+    </Attempt>
+    <Attempt id="7" started="01/26/2025 13:07:35" isStartedSynced="True" ended="01/26/2025 13:20:02" isEndedSynced="True">
+      <RealTime>00:12:26.4515811</RealTime>
+    </Attempt>
+    <Attempt id="8" started="02/02/2025 06:30:00" isStartedSynced="True" ended="02/02/2025 06:31:58" isEndedSynced="True" />
+    <Attempt id="9" started="02/02/2025 06:32:07" isStartedSynced="True" ended="02/02/2025 06:35:26" isEndedSynced="True" />
+    <Attempt id="10" started="02/02/2025 06:36:17" isStartedSynced="True" ended="02/02/2025 06:36:43" isEndedSynced="True" />
+    <Attempt id="11" started="02/02/2025 06:36:52" isStartedSynced="True" ended="02/02/2025 06:38:21" isEndedSynced="True" />
+    <Attempt id="12" started="02/02/2025 06:38:37" isStartedSynced="True" ended="02/02/2025 06:42:03" isEndedSynced="True" />
+    <Attempt id="13" started="02/02/2025 06:42:12" isStartedSynced="True" ended="02/02/2025 06:45:41" isEndedSynced="True" />
+    <Attempt id="14" started="02/02/2025 11:27:57" isStartedSynced="True" ended="02/02/2025 11:29:16" isEndedSynced="True" />
+    <Attempt id="15" started="02/02/2025 11:29:41" isStartedSynced="True" ended="02/02/2025 11:31:01" isEndedSynced="True" />
+    <Attempt id="16" started="02/02/2025 11:31:11" isStartedSynced="True" ended="02/02/2025 11:34:39" isEndedSynced="True" />
+    <Attempt id="17" started="02/02/2025 11:34:49" isStartedSynced="True" ended="02/02/2025 11:36:18" isEndedSynced="True" />
+    <Attempt id="18" started="02/02/2025 11:36:30" isStartedSynced="True" ended="02/02/2025 11:48:59" isEndedSynced="True" />
+    <Attempt id="19" started="02/02/2025 11:49:17" isStartedSynced="True" ended="02/02/2025 11:50:43" isEndedSynced="True" />
+    <Attempt id="20" started="02/02/2025 11:50:53" isStartedSynced="True" ended="02/02/2025 11:51:37" isEndedSynced="True" />
+    <Attempt id="21" started="02/02/2025 11:51:44" isStartedSynced="True" ended="02/02/2025 11:57:42" isEndedSynced="True" />
+    <Attempt id="22" started="02/02/2025 12:02:55" isStartedSynced="True" ended="02/02/2025 12:03:45" isEndedSynced="True" />
+    <Attempt id="23" started="02/02/2025 12:03:54" isStartedSynced="True" ended="02/02/2025 12:07:13" isEndedSynced="True" />
+    <Attempt id="24" started="02/02/2025 12:07:22" isStartedSynced="True" ended="02/02/2025 12:08:51" isEndedSynced="True" />
+    <Attempt id="25" started="02/02/2025 12:09:14" isStartedSynced="True" ended="02/02/2025 12:12:34" isEndedSynced="True" />
+    <Attempt id="26" started="02/02/2025 12:12:43" isStartedSynced="True" ended="02/02/2025 12:14:06" isEndedSynced="True" />
+    <Attempt id="27" started="02/02/2025 12:54:28" isStartedSynced="True" ended="02/02/2025 12:55:51" isEndedSynced="True" />
+    <Attempt id="28" started="02/02/2025 12:55:59" isStartedSynced="True" ended="02/02/2025 13:07:47" isEndedSynced="True">
+      <RealTime>00:11:47.9497877</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>Stage 1</Name>
+      <Name>Cyclops</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:01:24.0636794</RealTime>
+          <RealTime>00:01:19.9914264</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:24.0636794</RealTime>
+        <RealTime>00:01:12.5667405</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
           <RealTime>00:01:39.4364623</RealTime>
         </Time>
-        <Time id="3">
-          <RealTime>00:01:31.8224501</RealTime>
-        </Time>
         <Time id="2">
           <RealTime>00:01:28.0139018</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:31.8224501</RealTime>
         </Time>
         <Time id="4">
           <RealTime>00:01:24.0636794</RealTime>
         </Time>
+        <Time id="6">
+          <RealTime>00:01:24.0872043</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:19.5187053</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:24.7243734</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:01:12.5667405</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:25.4066068</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:20.3666048</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:24.1264905</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:25.6261230</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:01:26.5904061</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:26.5585616</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:01:20.0388911</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:01:14.8229965</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:01:24.7108934</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:01:19.9914264</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Stage 2</Name>
+      <Name>Rising Dog 1</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:03:20.3167183</RealTime>
+          <RealTime>00:03:26.9804845</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:55.8778785</RealTime>
+        <RealTime>00:01:51.7732036</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
           <RealTime>00:02:01.1251930</RealTime>
         </Time>
-        <Time id="3">
-          <RealTime>00:01:55.8778785</RealTime>
-        </Time>
         <Time id="2">
           <RealTime>00:02:00.0746452</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:55.8778785</RealTime>
         </Time>
         <Time id="4">
           <RealTime>00:01:56.2530389</RealTime>
         </Time>
+        <Time id="6">
+          <RealTime>00:01:51.7732036</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:58.8060462</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:52.4303285</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:02:02.6056407</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:02:06.9890581</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Stage 3</Name>
+      <Name>Silpheed</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:05:47.4022840</RealTime>
+          <RealTime>00:05:46.3381561</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:27.0855657</RealTime>
+        <RealTime>00:02:13.3925911</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -101,18 +189,30 @@
         <Time id="4">
           <RealTime>00:02:27.0855657</RealTime>
         </Time>
+        <Time id="6">
+          <RealTime>00:02:26.0457508</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:13.3925911</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:26.5652695</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:02:19.3576716</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Stage 4</Name>
+      <Name>Prisoner Beta</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:08:02.8958446</RealTime>
+          <RealTime>00:07:47.0081160</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:15.4935606</RealTime>
+        <RealTime>00:02:00.6699599</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -124,18 +224,30 @@
         <Time id="4">
           <RealTime>00:02:15.4935606</RealTime>
         </Time>
+        <Time id="6">
+          <RealTime>00:02:01.8139505</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:07.1791088</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:07.0059295</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:02:00.6699599</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Stage 5</Name>
+      <Name>Kamui</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:10:05.2719208</RealTime>
+          <RealTime>00:09:42.2458389</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:02.3760762</RealTime>
+        <RealTime>00:01:54.5258744</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -147,14 +259,26 @@
         <Time id="4">
           <RealTime>00:02:02.3760762</RealTime>
         </Time>
+        <Time id="6">
+          <RealTime>00:01:59.2865545</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:54.5258744</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:08.1660354</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:01:55.2377229</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Stage 6</Name>
+      <Name>Rising Dog 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:12:23.2191638</RealTime>
+          <RealTime>00:11:47.9497877</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -169,6 +293,15 @@
         </Time>
         <Time id="4">
           <RealTime>00:02:17.9472430</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:43.4926813</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:53.0292553</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:02:05.7039488</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
