@@ -114,10 +114,10 @@
         <RealTime>00:05:33.2381046</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="1" />
         <Time id="0">
           <RealTime>00:05:59.7903726</RealTime>
         </Time>
+        <Time id="1" />
         <Time id="6">
           <RealTime>00:05:33.2381046</RealTime>
         </Time>
@@ -135,11 +135,11 @@
         <RealTime>00:05:18.7207671</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="1">
-          <RealTime>00:11:18.5111397</RealTime>
-        </Time>
         <Time id="0">
           <RealTime>00:05:18.7207671</RealTime>
+        </Time>
+        <Time id="1">
+          <RealTime>00:11:18.5111397</RealTime>
         </Time>
         <Time id="6">
           <RealTime>00:05:20.1377198</RealTime>
@@ -150,10 +150,12 @@
       <Name>Repair Kit</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:19.8800000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:34.1027891</RealTime>
+        <RealTime>00:03:17.3621656</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
